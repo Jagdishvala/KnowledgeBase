@@ -1,4 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------------------
 Unchecked Exception List
+-------------------------------------------------------------------------------------------------------------------------------
 ArrayIndexOutOfBoundsException
 ClassCastException
 IllegalArgumentException
@@ -9,8 +11,9 @@ AssertionError
 ExceptionInInitializerError
 StackOverflowError
 NoClassDefFoundError
-
+-------------------------------------------------------------------------------------------------------------------------------
 Checked Exception List
+-------------------------------------------------------------------------------------------------------------------------------
 Exception
 IOException
 FileNotFoundException
